@@ -1,0 +1,83 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1501553306385'); /* IE9*/
+  src: url('iconfont.eot?t=1501553306385#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1501553306385') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1501553306385') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1501553306385#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.icon-diaoliao {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-FastFood {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-danlei {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-shuiguo {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-songzi {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-yu {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-icon-test {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-dianhua {
+  font-family:"iconfont" !important;
+  font-size:36px;
+
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-diaoliao:before { content: "\e628"; }
+
+.icon-FastFood:before { content: "\e621"; }
+
+.icon-danlei:before { content: "\e644"; }
+
+.icon-shuiguo:before { content: "\e61b"; }
+
+.icon-songzi:before { content: "\e64e"; }
+
+.icon-yu:before { content: "\e614"; }
+
+.icon-dianhua:before { content: "\e600"; }
+
+.icon-icon-test:before { content: "\e668"; }
+
